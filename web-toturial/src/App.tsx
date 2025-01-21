@@ -14,11 +14,11 @@ const App = () => {
         {/*second div*/}
         <div id="group-indiv-div"className='flex flex-row size-full space-x-2'>
           <div id="indiv-div
-          "className='border border-white p-4 rounded-md size-full
-          '></div>
+          "className='border border-white p-4 rounded-md size-full flex justify-center items-center text-white font-bold
+          '>Computer Science</div>
           <div id="indiv-div
-          "className='border border-white p-4 rounded-md size-full
-          '></div>
+          "className='border border-white p-4 rounded-md size-full flex justify-center items-center text-white font-bold
+          '>Programmer</div>
         </div>
 
         {/*third div*/}
